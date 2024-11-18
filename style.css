@@ -1,0 +1,22 @@
+body {
+  width: 500px;
+  font-family: "Courier New", Courier, monospace;
+  border-bottom: 30px solid #b7e9f7;
+  border-left: 15px solid #b7e9f7;
+  border-right: 15px solid #b7e9f7;
+  border-top: 10px solid #b7e9f7;
+  padding: 30px 75px;
+  margin: 0px auto;
+  margin-top: 25px;
+  background-color: #dbf3fa;
+  border-style: inset;
+}
+
+html {
+  background-color: #7ad7f0;
+}
+
+input {
+  width: 100px;
+  background-color: #f5fcff;
+}
